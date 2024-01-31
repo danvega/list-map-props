@@ -1,0 +1,24 @@
+social:
+  media:
+    accounts:
+      -   name: Twitter
+          url: https://twitter.com/therealdanvega
+          username: therealdanvega
+      -   name: YouTube
+          url: https://www.youtube.com/@danvega
+          username: danvega
+      -   name: GitHub
+          url: https://github.com/danvega/
+          username: danvega
+      -   name: LinkedIn
+          url: https://www.linkedin.com/in/danvega/
+          username: danvega
+      -   name: Reddit
+          url: https://www.reddit.com/user/therealdanvega
+          username: therealdanvega
+bookmarks:
+  websites:
+    dan-vega: https://www.danvega.dev
+    spring-academy: https://spring.academy
+    spring-io: https://spring.io
+    spring-one: https://springone.io
